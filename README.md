@@ -100,15 +100,14 @@ Hi, I'm **Shubhyansh Rai** - a Principal AI Solutions Architect and Engineering 
 
 <div align="center">
 
-<a href="https://github.com/shubhyansh">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shubhyansh&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=2C5364&icon_color=2C5364&text_color=24292e&bg_color=ffffff&cache_seconds=1800" alt="Shubhyansh Rai GitHub stats"/>
-</a>
-<a href="https://github.com/shubhyansh">
-  <img height="170" src="https://streak-stats.demolab.com?user=shubhyansh&hide_border=true&background=ffffff&stroke=eaeaea&ring=2C5364&fire=2C5364&currStreakLabel=24292e&sideLabels=24292e&dates=8b949e" alt="Shubhyansh Rai GitHub streak"/>
-</a>
+<p>
+  <img src="https://img.shields.io/github/followers/shubhyansh?label=Followers&style=for-the-badge&color=2C5364&logo=github" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/shubhyansh?label=Stars&style=for-the-badge&color=2C5364&logo=github" alt="Stars"/>
+  <img src="https://img.shields.io/badge/dynamic/json?label=Public%20Repos&style=for-the-badge&color=2C5364&logo=github&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fshubhyansh" alt="Public Repos"/>
+</p>
 
 <a href="https://github.com/shubhyansh">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhyansh&layout=compact&hide_border=true&title_color=2C5364&text_color=24292e&bg_color=ffffff&langs_count=8&cache_seconds=1800" alt="Top languages used by Shubhyansh Rai"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=shubhyansh&hide_border=true&background=ffffff&stroke=eaeaea&ring=2C5364&fire=2C5364&currStreakLabel=24292e&sideLabels=24292e&dates=8b949e" alt="Shubhyansh Rai GitHub streak"/>
 </a>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img height="170" src="https://github-profile-trophy.vercel.app/?username=shubhyansh&theme=flat&no-frame=true&no-bg=true&column=4&margin-w=10" alt="Shubhyansh Rai GitHub trophies"/>
