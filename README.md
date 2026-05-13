@@ -1,6 +1,6 @@
 <!--
   =====================================================================
-  GITHUB PROFILE README â shubhyansh
+  GITHUB PROFILE README - shubhyansh
   Drop this file into a public repo named exactly: shubhyansh/shubhyansh
   GitHub will automatically render it on your profile page.
   =====================================================================
@@ -8,11 +8,11 @@
 
 <div align="center">
 
-<!-- Header banner. Replace the URL with your own banner if you make one in Figma/Canva (1500x500). -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Shubhayan%20Sh.&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Principal%20AI%20Solutions%20Architect%20%7C%20Engineering%20Lead&descAlignY=60&descSize=18" width="100%" alt="header"/>
+<!-- Header banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Shubhyansh%20Rai&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Principal%20AI%20Solutions%20Architect%20%7C%20Engineering%20Lead&descAlignY=60&descSize=18" width="100%" alt="header"/>
 
 <p>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+  <a href="https://www.linkedin.com/in/shubhyansh-rai-749911136/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:shubhayansh@gmail.com">
@@ -30,7 +30,7 @@
 
 ### About
 
-I design and ship production-grade AI systems â from LLM-powered agents and RAG pipelines to the cloud infrastructure and APIs that keep them running at scale. I lead engineering teams that turn ambiguous business problems into clean, measurable solutions, and I care equally about model quality, code hygiene, and the developer experience around them.
+Hi, I'm **Shubhyansh Rai** - a Principal AI Solutions Architect and Engineering Lead. I design and ship production-grade AI systems, from LLM-powered agents and RAG pipelines to the cloud infrastructure and APIs that keep them running at scale. I lead engineering teams that turn ambiguous business problems into clean, measurable solutions, and I care equally about model quality, code hygiene, and developer experience.
 
 - Currently building intelligent agents and end-to-end ML platforms.
 - Comfortable across the stack: research notebooks to multi-region Kubernetes deployments.
@@ -101,17 +101,17 @@ I design and ship production-grade AI systems â from LLM-powered agents and
 <div align="center">
 
 <a href="https://github.com/shubhyansh">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shubhyansh&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=2C5364&icon_color=2C5364&text_color=24292e&bg_color=ffffff" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shubhyansh&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=2C5364&icon_color=2C5364&text_color=24292e&bg_color=ffffff&cache_seconds=1800" alt="Shubhyansh Rai GitHub stats"/>
 </a>
 <a href="https://github.com/shubhyansh">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=shubhyansh&hide_border=true&background=ffffff&stroke=eaeaea&ring=2C5364&fire=2C5364&currStreakLabel=24292e&sideLabels=24292e&dates=8b949e" alt="GitHub streak"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=shubhyansh&hide_border=true&background=ffffff&stroke=eaeaea&ring=2C5364&fire=2C5364&currStreakLabel=24292e&sideLabels=24292e&dates=8b949e" alt="Shubhyansh Rai GitHub streak"/>
 </a>
 
 <a href="https://github.com/shubhyansh">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhyansh&layout=compact&hide_border=true&title_color=2C5364&text_color=24292e&bg_color=ffffff&langs_count=8" alt="Top languages"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhyansh&layout=compact&hide_border=true&title_color=2C5364&text_color=24292e&bg_color=ffffff&langs_count=8&cache_seconds=1800" alt="Top languages used by Shubhyansh Rai"/>
 </a>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img height="170" src="https://github-profile-trophy.vercel.app/?username=shubhyansh&theme=flat&no-frame=true&no-bg=true&column=4&margin-w=10" alt="Trophies"/>
+  <img height="170" src="https://github-profile-trophy.vercel.app/?username=shubhyansh&theme=flat&no-frame=true&no-bg=true&column=4&margin-w=10" alt="Shubhyansh Rai GitHub trophies"/>
 </a>
 
 </div>
@@ -121,54 +121,15 @@ I design and ship production-grade AI systems â from LLM-powered agents and
 ### Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhyansh&bg_color=ffffff&color=24292e&line=2C5364&point=0F2027&area=true&hide_border=true" width="98%" alt="Activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhyansh&bg_color=ffffff&color=24292e&line=2C5364&point=0F2027&area=true&hide_border=true" width="98%" alt="Shubhyansh Rai contribution activity graph"/>
 </div>
-
-<br/>
-
-### Featured Work
-
-<table>
-<tr>
-<td width="50%">
-
-<a href="https://github.com/shubhyansh/REPO-NAME-1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhyansh&repo=REPO-NAME-1&hide_border=true&title_color=2C5364&text_color=24292e&icon_color=2C5364&bg_color=ffffff" alt="Project 1"/>
-</a>
-
-</td>
-<td width="50%">
-
-<a href="https://github.com/shubhyansh/REPO-NAME-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhyansh&repo=REPO-NAME-2&hide_border=true&title_color=2C5364&text_color=24292e&icon_color=2C5364&bg_color=ffffff" alt="Project 2"/>
-</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-<a href="https://github.com/shubhyansh/REPO-NAME-3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhyansh&repo=REPO-NAME-3&hide_border=true&title_color=2C5364&text_color=24292e&icon_color=2C5364&bg_color=ffffff" alt="Project 3"/>
-</a>
-
-</td>
-<td width="50%">
-
-<a href="https://github.com/shubhyansh/REPO-NAME-4">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhyansh&repo=REPO-NAME-4&hide_border=true&title_color=2C5364&text_color=24292e&icon_color=2C5364&bg_color=ffffff" alt="Project 4"/>
-</a>
-
-</td>
-</tr>
-</table>
 
 <br/>
 
 ### Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/shubhyansh/shubhyansh/output/snake.svg" alt="Contribution snake" width="98%"/>
+  <img src="https://raw.githubusercontent.com/shubhyansh/shubhyansh/output/snake.svg" alt="Shubhyansh Rai contribution snake graph" width="98%"/>
 </div>
 
 <br/>
@@ -181,11 +142,13 @@ I'm open to senior architecture, fractional CTO, and high-impact AI consulting e
   <a href="mailto:shubhayansh@gmail.com">
     <img src="https://img.shields.io/badge/shubhayansh@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+  <a href="https://www.linkedin.com/in/shubhyansh-rai-749911136/">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
+<!-- SEO keywords for search visibility: Shubhyansh Rai, Principal AI Solutions Architect, Engineering Lead, LLM, RAG, MLOps, Python, AWS, Kubernetes, FastAPI, AI consultant, Machine Learning Engineer -->
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%" alt="footer"/>
-</di
+</div>
